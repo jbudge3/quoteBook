@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+}
+
+.quote-container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.quote {
+  border: solid gray 1px;
+  margin: 20px 0;
+  padding: 15px;
+  border-radius: 5%;
+  text-align: center;
+}
+
+.quote > .quote-text {
+  font-size: 1.2em;
+}
+
+.quote button {
+  float: right;
+}
